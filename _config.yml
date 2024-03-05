@@ -1,6 +1,5 @@
-#remote_theme: digitalmalayali/linkhub-jekyll-theme
 # Jekyll
-theme: linkhub-jekyll-theme
+remote_theme: digitalmalayali/linkhub-jekyll-theme
 
 # Site Configuration
 name: Linkhub  # Name of your website
