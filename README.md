@@ -1,8 +1,8 @@
 # Fale Comigo!  
   - jean.alesi.rodrigues@alumni.usp.br
----
+  - [Linkedin](teste.md)
 
-[TEXTO_DO_LINK](teste.md)
+***
 
 ## Contador
 #Programador
