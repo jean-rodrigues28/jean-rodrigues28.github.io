@@ -2,8 +2,8 @@
   - jean.alesi.rodrigues@alumni.usp.br
   - [Linkedin](teste.md)
   - Telefone: (11) 97862-5253
+    
 ***
-
 # Formação Acadêmica
    ### Bacharelado Ciências Contábeis - FEA-RP / USP
        Conclusão: Dez/2022
