@@ -1,6 +1,7 @@
 # Fale Comigo!  
   - jean.alesi.rodrigues@alumni.usp.br
-  - [Linkedin](teste.md)
+  - [Linkedin](linkedin.com/in/jean-a-b-rodrigues-a3337b144)
+  - [teste](teste.md)
   - WhatsAPP: (11) 97862-5253 
     
 ***
