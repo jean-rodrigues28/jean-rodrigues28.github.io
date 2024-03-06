@@ -2,7 +2,7 @@
   - jean.alesi.rodrigues@alumni.usp.br
 ---
 
-[[teste.md]]
+[TEXTO_DO_LINK](teste.md)
 
 ## Contador
 #Programador
