@@ -1,7 +1,7 @@
 # Fale Comigo!  
   - jean.alesi.rodrigues@alumni.usp.br
   - [Linkedin](teste.md)
-  - WhatsAPP: (11) 97862-5253 (
+  - WhatsAPP: (11) 97862-5253 
     
 ***
 # Formação Acadêmica
