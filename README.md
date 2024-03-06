@@ -17,10 +17,10 @@
 # Proficiência em Idiomas
 
   - Inglês: avançado - nível C1
-      Leitura -> Excelente
-      Escuta -> Excelente
-      Fala -> Consigo falar, porém travando.
-      Escrita -> Falta muito à aprender.
+      - Leitura -> Excelente
+      - Escuta -> Excelente
+      - Fala -> Consigo falar, porém travando.
+      - Escrita -> Falta muito à aprender.
 
 ***
 # Projetos
