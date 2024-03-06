@@ -1,13 +1,9 @@
-# Fale Comigo!  
-  - jean.alesi.rodrigues@alumni.usp.br
-  - [teste](teste.md)
-  - [Linkedin](https://www.linkedin.com/in/jean-a-b-rodrigues-a3337b144)
-  - WhatsAPP: (11) 97862-5253 
-    
+#Bem-vindo!
+  
 ***
 # Formação Acadêmica
-   ### Bacharelado Ciências Contábeis - FEA-RP / USP
-       Conclusão: Dez/2022
+   ## Bacharelado em Ciências Contábeis - FEA-RP / USP
+     - Conclusão: Dez/2022
        
 ***
 # Certificações
@@ -17,9 +13,9 @@
 ***
 # Proficiência em Idiomas
 
-  - Inglês: avançado - nível C1
-      - Leitura -> Excelente
-      - Escuta -> Excelente
+  - Inglês: nível C1 (avançado)
+      - Leitura -> Excelente.
+      - Escuta -> Excelente.
       - Fala -> Consigo falar, porém travando.
       - Escrita -> Falta muito à aprender.
 
@@ -28,7 +24,7 @@
 
 
 ***
-# Conhecimentos Adicionais
+# Conhecimentos Adicionais:
   - Excel:
       - [Excel Fundamentals for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/6ES593CUYNZA)  
   - SQL:
@@ -40,5 +36,12 @@
   - R:
       - [Programa de cursos integrados: Statistical Analysis with R for Public Health](https://www.coursera.org/account/accomplishments/specialization/certificate/3N654VHT7QCC)
       - [Machine Learning e Data Mining in R](https://www.coursera.org/account/accomplishments/certificate/GQS7YGWUQDMS)  
+
+***
+# Fale Comigo!  
+  - jean.alesi.rodrigues@alumni.usp.br
+  - [teste](teste.md)
+  - [Linkedin](https://www.linkedin.com/in/jean-a-b-rodrigues-a3337b144)
+  - WhatsAPP: (11) 97862-5253
 
 ***
