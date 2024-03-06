@@ -23,13 +23,21 @@
       Escrita -> Falta muito à aprender.
 
 ***
+# Projetos
+
+
+***
 # Conhecimentos Adicionais
   - Excel:
-      - []()   
+      - [Excel Fundamentals for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/6ES593CUYNZA)  
   - SQL:
-      - []()   
+      - [Database Structures and Management with MySQL](https://coursera.org/verify/98TUSQVNE83Z)
+      - [Relational Database Design](https://www.coursera.org/account/accomplishments/certificate/9FC3WYKNEFJR)
+      - [The Structured Query Language (SQL) ](https://www.coursera.org/account/accomplishments/certificate/CXVYZDEUPR6J)
   - Python:
-      - []()   
+       - [Understanding and Visualizing Data with Python ](https://www.coursera.org/account/accomplishments/certificate/YLCBGXXVGWBJ)
   - R:
-      - []()   
+      - [Programa de cursos integrados: Statistical Analysis with R for Public Health](https://www.coursera.org/account/accomplishments/specialization/certificate/3N654VHT7QCC)
+          - [Machine Learning e Data Mining in R](https://www.coursera.org/account/accomplishments/certificate/GQS7YGWUQDMS)  
+
 ***
