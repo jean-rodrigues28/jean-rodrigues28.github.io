@@ -11,12 +11,16 @@
 ***
 # Certificações
  - Certificado de aprovação no Conselho Regional de Contabilidade (CRC)
-     - CRC ATIVO, registro 1SP351790.
+     - CRC ATIVO, registro nº: 1SP351790.
 
 ***
 # Proficiência em Idiomas
 
   - Inglês: avançado - nível C1
+      Leitura -> Excelente
+      Escuta -> Excelente
+      Fala -> Consigo falar, porém travando.
+      Escrita -> Falta muito à aprender.
 
 ***
 # Conhecimentos Adicionais
