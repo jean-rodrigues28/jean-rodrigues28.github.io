@@ -5,9 +5,9 @@
 ***
 
 # Formação Acadêmica
-
-  ## Graduação
-    ### Bacharelado Ciências Contábeis - FEA-RP / USP
+   ### Bacharelado Ciências Contábeis - FEA-RP / USP
+       Conclusão: Dez/2022
+       
 ***
 # Certificações
  - Certificado de aprovação no Conselho Regional de Contabilidade (CRC)
