@@ -15,8 +15,8 @@
  
   - Leitura e Tabs:
       - 🎸[braço do violão](https://www.formulaviolao.com/wp-content/uploads/2019/04/notas-no-braco-do-violao.png)
-      -🎶[Segovia scales](https://static1.squarespace.com/static/516608a8e4b0536152969615/t/5405f3b1e4b00e19c7ed31c6/1409676209535/Segovia+Scales+Internet+Tab.pdf)
-      -🎵[Robert Lunn](https://robertlunn.com/free-classical-guitar-music)
+      - 🎶[Segovia scales](https://static1.squarespace.com/static/516608a8e4b0536152969615/t/5405f3b1e4b00e19c7ed31c6/1409676209535/Segovia+Scales+Internet+Tab.pdf)
+      - 🎵[Robert Lunn](https://robertlunn.com/free-classical-guitar-music)
 
 ***
 
