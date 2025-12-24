@@ -1,15 +1,12 @@
-# Bem-vindo!
- 
-***
 
-
-## 📌 Menu
+# 📌 Menu
 - 🏠 [Início](README.md)
 - 🎓 [Index](index.md)
 - 📜 [Certificações](certificacoes.md)
 - 💼 [Projetos](projetos.md)
 - 🧠 [Conhecimentos](conhecimentos.md)
 - 📬 [Contato](contato.md)
+
 ***
 
 
