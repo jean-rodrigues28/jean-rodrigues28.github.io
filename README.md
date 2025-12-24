@@ -11,6 +11,6 @@
 
 
 ***
-# [Fale Comigo!](contato.md)  
+## [Fale Comigo!](contato.md)  
 
 ***
