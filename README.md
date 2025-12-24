@@ -3,16 +3,9 @@
 - 🏠 [Início](README.md)
 - 🎸 [Music](Music.md)
 - 📜 [Certificações](certificacoes.md)
-- 💼 [Projetos](projetos.md)
-- 🧠 [Conhecimentos](conhecimentos.md)
-- 📬 [Contato](contato.md)
-- 🎶 → Notas musicais
+- 💼 [Concursos](concursos.md)
+- 🧠 [Reflexões Aleatórias](pensamentos.md)
 
-🎵 → Nota musical
-
-🎼 → Partitura
-
-🎤 → Microfone (música em geral)
 
 ***
 
