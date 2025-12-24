@@ -10,41 +10,17 @@
 ***
 
 
-# Formação Acadêmica
-   ## Bacharelado em Ciências Contábeis - FEA-RP / USP
-     - Conclusão: Dez/2022
-       
 ***
-# Certificações
- - Certificado de aprovação no Conselho Regional de Contabilidade (CRC)
-     - CRC ATIVO, registro nº: 1SP351790.
-
-***
-# Proficiência em Idiomas
-
-  - Inglês: nível C1 (avançado)
-      - Leitura -> Excelente.
-      - Escuta -> Excelente.
-      - Fala -> Consigo falar, porém travando.
-      - Escrita -> Falta muito à aprender.
-
-***
-# Projetos
-
-
-***
-# Conhecimentos Adicionais:
-  - Excel:
-      - [Excel Fundamentals for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/6ES593CUYNZA)  
-  - SQL:
+# Praticando:
+  - Easy:
+      - [Suite No.1 (for beginners) - John W Powell](https://www.youtube.com/watch?v=FBMcZVk_j90)
+      - [Drive - Suite No.1 (for beginners) - John W Powell](https://drive.google.com/file/d/1kQhgzb5Evc1aE9L_gVHK3tcxH3CC96mc/view?usp=drive_link)
+  - Sites Úteis:
       - [Database Structures and Management with MySQL](https://coursera.org/verify/98TUSQVNE83Z)
       - [Relational Database Design](https://www.coursera.org/account/accomplishments/certificate/9FC3WYKNEFJR)
       - [The Structured Query Language (SQL) ](https://www.coursera.org/account/accomplishments/certificate/CXVYZDEUPR6J)
-  - Python:
+  - Playlists:
       - [Understanding and Visualizing Data with Python ](https://www.coursera.org/account/accomplishments/certificate/YLCBGXXVGWBJ)
-  - R:
-      - [Programa de cursos integrados: Statistical Analysis with R for Public Health](https://www.coursera.org/account/accomplishments/specialization/certificate/3N654VHT7QCC)
-      - [Machine Learning e Data Mining in R](https://www.coursera.org/account/accomplishments/certificate/GQS7YGWUQDMS)  
 
 ***
 # Fale Comigo!  
