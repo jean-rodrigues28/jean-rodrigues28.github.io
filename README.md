@@ -4,7 +4,7 @@
 - 📜 [Currículo](curriculo.md)
 - 🎸 [Music](Music.md)
 - 💼 [Concursos](concursos.md)
-- 🧠 [Reflexões Aleatórias](pensamentos.md)
+- 🧠 [Leituras](leituras.md)
 
 ***
 
