@@ -1,8 +1,8 @@
 
 # 📌 Bem-vindo!
 
+- 📜 [Currículo](curriculo.md)
 - 🎸 [Music](Music.md)
-- 📜 [Certificações](certificacoes.md)
 - 💼 [Concursos](concursos.md)
 - 🧠 [Reflexões Aleatórias](pensamentos.md)
 
