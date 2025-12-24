@@ -1,7 +1,7 @@
 
 # 📌 Menu
 - 🏠 [Início](README.md)
-- 🎓 [Music](music.md)
+- 🎓 [Music](Music.md)
 - 📜 [Certificações](certificacoes.md)
 - 💼 [Projetos](projetos.md)
 - 🧠 [Conhecimentos](conhecimentos.md)
