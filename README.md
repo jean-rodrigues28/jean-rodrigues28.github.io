@@ -18,9 +18,9 @@
       - [tabs - Suite No.1 (for beginners) - John W Powell](https://drive.google.com/file/d/1kQhgzb5Evc1aE9L_gVHK3tcxH3CC96mc/view?usp=drive_link)
       - [YT - Noite Escura](https://youtu.be/Qi3_znJuXU4?si=-iFmkVd8J2V_Y5pg)
       - [Tab - Noite Escura - Fábio Lima](https://www.songsterr.com/a/wsa/fabio-lima-noite-escura-tab-s444547)
-      - [Wave - YT](https://youtu.be/i7FNsARpfAY?si=ynV-4ArBTxq_84ho)
-      - [Wave - tab](https://drive.google.com/file/d/1A0EV50xeRpjXmB8dkNrR62BEMvveqDCD/view)
-      - [Estudio en mi menor - Francisco Tárrega](https://youtu.be/-DJOlLqhidw?si=9J8RVI3f9k1YML8V)
+      - [YT - Wave](https://youtu.be/i7FNsARpfAY?si=ynV-4ArBTxq_84ho)
+      - [YT - Wave](https://drive.google.com/file/d/1A0EV50xeRpjXmB8dkNrR62BEMvveqDCD/view)
+      - [YT - Estudio en mi menor - Francisco Tárrega](https://youtu.be/-DJOlLqhidw?si=9J8RVI3f9k1YML8V)
    
  
   - Leitura e Tabs:
