@@ -1,6 +1,18 @@
 # Bem-vindo!
-  
+ 
 ***
+
+
+## 📌 Menu
+- 🏠 [Início](README.md)
+- 🎓 [Index](index.md)
+- 📜 [Certificações](certificacoes.md)
+- 💼 [Projetos](projetos.md)
+- 🧠 [Conhecimentos](conhecimentos.md)
+- 📬 [Contato](contato.md)
+***
+
+
 # Formação Acadêmica
    ## Bacharelado em Ciências Contábeis - FEA-RP / USP
      - Conclusão: Dez/2022
