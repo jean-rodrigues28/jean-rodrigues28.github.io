@@ -24,6 +24,7 @@
       - 🎶 [Andy Crowley](https://www.youtube.com/@andycrowley)
       - 🎨 [Good_Guitarist](https://www.youtube.com/@Good_Guitarist)
       - 🎨 [tatyana_ryzhkova](https://www.youtube.com/@tatyanaryzhkova)
+      - 🎶 [guitar-tabs](https://app.my-guitar-tabs.com)
 
 ***
 
