@@ -14,7 +14,7 @@
       - 🎼 [Leyenda - Albeniz](https://static1.squarespace.com/static/5781a515414fb585ab321b64/t/6032ce752cfb6e5b1e548b9b/1613942390307/Albeniz+Asturias-Leyenda+-+Score.pdf)
       - 🎼 [Andantino in A minor](https://drive.google.com/file/d/1BYvmS8xdqncYUA6hXN82kqvfARVguoIE/view?usp=sharing)
       - 🎼[Etude in A minor](https://drive.google.com/file/d/1lvma9HQnlIi2VQ_HYiwbVqhjP8tqG-tJ/view?usp=sharing)
-      - 🎼[Etude in Am (F. Carulli)](https://www.youtube.com/watch?v=YVWd1E7BmIM&list=PLtsVSKrLcIeOaXYNArPbkEWviY1aNSYCE&index=6&t=194s)
+      - ▶️[Etude in Am (F. Carulli)](https://www.youtube.com/watch?v=YVWd1E7BmIM&list=PLtsVSKrLcIeOaXYNArPbkEWviY1aNSYCE&index=6&t=194s)
       - 🎼[Saudades de Márcia](https://www.classclef.com/pdf/Saudades%20Marcia%20by%20Baden%20Powell.pdf)
       - 🎶 [Segovia scales](https://static1.squarespace.com/static/516608a8e4b0536152969615/t/5405f3b1e4b00e19c7ed31c6/1409676209535/Segovia+Scales+Internet+Tab.pdf)
       - 🎶[panteleimon-michaeloudis- nightfall](https://tabs.ultimate-guitar.com/tab/panteleimon-michaeloudis/nightfall-guitar-pro-4160056)  
